@@ -1,0 +1,21 @@
+body{
+    background-image:url("https://girosa.com.br/wp-content/uploads/2022/07/stna-INAUGURAO-ETEC-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.menu{
+    border: 1px solid black;
+    margin: 5px 10px 5px 10px;
+    padding: 5px 10px 5px 10px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+}
+#div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
